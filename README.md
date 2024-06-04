@@ -7,6 +7,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 ![Mifan's GitHub stats](https://github-readme-stats-teal-omega.vercel.app/api?username=mifanTeddy&count_private=true&hide=stars)
 
+![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg)
 
 ## Use
 [![Top Langs](https://github-readme-stats-teal-omega.vercel.app/api/top-langs/?username=mifanTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
