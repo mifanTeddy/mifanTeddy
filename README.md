@@ -12,7 +12,7 @@
 ## Use
 [![Top Langs](https://github-readme-stats-teal-omega.vercel.app/api/top-langs/?username=mifanTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mifan's wakatime stats](https://github-readme-stats-teal-omega.vercel.app/api/wakatime?username=mifanTeddy)
+![Mifan's wakatime stats](https://github-readme-stats-teal-omega.vercel.app/api/wakatime?username=mifanTeddy&layout=compact&hide_border=true)
 
 <!--
 **mifanTeddy/mifanTeddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
