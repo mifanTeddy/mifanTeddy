@@ -5,14 +5,16 @@
 - use golang and others
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![Mifan's GitHub stats](https://github-readme-stats-teal-omega.vercel.app/api?username=mifanTeddy&count_private=true&hide=stars)
+![Mifan's GitHub stats](https://github-readme-stats-teal-omega.vercel.app/api?username=mifanTeddy&count_private=true&hide=stars) [![Top Langs](https://github-readme-stats-teal-omega.vercel.app/api/top-langs/?username=mifanTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg)
+![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg) 
 
 ## Use
-[![Top Langs](https://github-readme-stats-teal-omega.vercel.app/api/top-langs/?username=mifanTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mifan's wakatime stats](https://github-readme-stats-teal-omega.vercel.app/api/wakatime?username=mifanTeddy&layout=compact&hide_border=true)
+![Mifan's wakatime stats](https://github-readme-stats-teal-omega.vercel.app/api/wakatime?username=mifanTeddy&layout=compact&hide_border=true) 
+
+
+
 
 <!--
 **mifanTeddy/mifanTeddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
