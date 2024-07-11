@@ -5,9 +5,9 @@
 - use golang and others
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![Mifan's GitHub stats](https://github-readme-stats-teal-omega.vercel.app/api?username=mifanTeddy&count_private=true&hide=stars) [![Top Langs](https://github-readme-stats-teal-omega.vercel.app/api/top-langs/?username=mifanTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg) 
+
+![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg) [![Top Langs](https://github-readme-stats-teal-omega.vercel.app/api/top-langs/?username=mifanTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Use
 
