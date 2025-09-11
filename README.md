@@ -9,10 +9,6 @@
 
 
 ![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg) 
-## Use
-
-![Mifan's wakatime stats](https://github-readme-stats-teal-omega.vercel.app/api/wakatime?username=mifanTeddy&layout=compact&hide_border=true) 
-
 
 
 
