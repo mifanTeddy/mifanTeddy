@@ -7,9 +7,9 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 ![Mifan's GitHub stats](https://github-readme-stats-teal-omega.vercel.app/api?username=mifanTeddy&count_private=true&hide=stars&include_all_commits=true&rank_icon=github&show_icons=true&hide_rank=true)[![Top Langs](https://github-readme-stats-teal-omega.vercel.app/api/top-langs/?username=mifanTeddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-
 ![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mifanTeddy)]
 
 
 <!--
