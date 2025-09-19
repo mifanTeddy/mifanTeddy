@@ -1,7 +1,7 @@
 ![Dino](dino.gif)
 
 ### Hi there 👋
-- web3 backend engineer
+- web3 AI agent engineer
 - use golang ,typescript and others
 
 ## 𝗦𝘁𝗮𝘁𝘀
