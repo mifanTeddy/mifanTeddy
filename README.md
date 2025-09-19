@@ -17,7 +17,7 @@
 
 ![Isocalendar](https://github.com/mifanTeddy/metrics/blob/master/metrics.plugin.isocalendar.svg)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mifanTeddy)]
 
 
 <!--
